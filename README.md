@@ -79,7 +79,7 @@ Common fields:
 - `slug`: filename inside `packages/`; must match the HTML shell filename. Keep existing slugs unless you intentionally rename a page.
 - `title`: displayed package name.
 - `description`: short description used on the card and hero.
-- `category`: category used by collection filters. Use `Heritage & Architecture`, `Spiritual & Temple Journeys`, `Himalayan & Nature Journeys`, `Cultural Experiences`, `Multi-Destination Tours`, or `International Journeys`. Do not recreate the removed `Ancient Civilisations & Archaeology` category; those packages belong under `Heritage & Architecture`.
+- `category`: category used by collection filters. Use `Heritage & Architecture`, `Spiritual & Temple Journeys`, `Himalayan Journeys`, `Cultural Experiences`, `Multi-Destination Tours`, or `International Journeys`. Do not recreate the removed `Ancient Civilisations & Archaeology` category; those packages belong under `Heritage & Architecture`.
 - `durationNights` and `durationDays`: displayed as `N Nights / N Days` everywhere.
 - `price`: numeric value in rupees (no comma or ₹ symbol). Use `0` for a price not supplied; the UI displays `₹0000*` until the confirmed price is entered.
 - `start`: one departure city only, shown under `Ex – Departure`.
