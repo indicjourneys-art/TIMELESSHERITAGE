@@ -2034,11 +2034,7 @@ window.TH_PACKAGES = [
       "kedarnath",
       "varanasi"
     ],
-    "id": "central-india-wonders",
-    "slug": "central-india-wonders",
-    "departureNote": "",
-    "whatsappMessage": "Hi Timeless Heritage! I'm interested in the Central India Wonders (4 nights / 5 days). Please share the detailed itinerary, upcoming departure dates, current availability, final price, inclusions, exclusions and booking process."
-  },
+    
   {
     "title": "Southern Sojourn",
     "durationDays": 5,
