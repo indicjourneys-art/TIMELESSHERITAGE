@@ -1,0 +1,33 @@
+{
+  "project": "Timeless Heritage",
+  "journey_count": 19,
+  "heritage_walk_count": 4,
+  "package_slugs": [
+    "gujarat-heritage",
+    "odisha-heritage",
+    "tungnath-chandrashila",
+    "kedarnath-badrinath",
+    "hampi-heritage",
+    "varanasi",
+    "varanasi-ayodhya-prayagraj",
+    "aurangabad-heritage",
+    "pancha-bhoota-temple-heritage",
+    "gwalior-orchha-khajuraho-jain-heritage",
+    "gangotri-harsil",
+    "classic-cambodia",
+    "jaipur-pushkar",
+    "madurai-rameshwaram",
+    "central-india-wonders",
+    "southern-sojourn",
+    "sri-lanka-ramayana-trail",
+    "exotic-bhutan",
+    "royal-rajasthan"
+  ],
+  "heritage_walk_slugs": [
+    "old-pune-heritage-walk",
+    "pune-journey-through-time",
+    "temple-tour-pune",
+    "around-pune-architecture-heritage"
+  ],
+  "style": "Original approved shared CSS / Gujarat itinerary layout"
+}
