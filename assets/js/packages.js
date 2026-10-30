@@ -223,7 +223,7 @@ window.TH_PACKAGES = [
     "durationDays": 5,
     "durationNights": 4,
     "price": 9750,
-    "category": "Himalayan & Nature Journeys",
+    "category": "Himalayan Journeys",
     "description": "A Himalayan journey combining sacred temples, high-altitude trekking, mountain viewpoints and the reflective waters of Deoriatal.",
     "highlights": [
       "Hari ki Pauri Ganga Aarti",
@@ -1144,7 +1144,7 @@ window.TH_PACKAGES = [
     "durationDays": 9,
     "durationNights": 8,
     "price": 0,
-    "category": "Himalayan & Nature Journeys",
+    "category": "Himalayan Journeys",
     "route": "Haridwar → Uttarkashi → Dharali → Gangotri → Rishikesh → Haridwar",
     "start": "Haridwar",
     "description": "A Himalayan journey through Harsil Valley, traditional villages, high-altitude lakes, Gartang Gali and Gangotri.",
@@ -1244,7 +1244,7 @@ window.TH_PACKAGES = [
           "Reach Haridwar & transfer to the stay facility. Check-in, freshen up & relax. If time permits, visit Har Ki Pauri for Ganga Aarti in the evening. Walk around local markets or ghats. Return to the stay facility, have dinner and overnight stay in Haridwar."
         ],
         "description": "Reach Haridwar & transfer to the stay facility. Check-in, freshen up & relax. If time permits, visit Har Ki Pauri for Ganga Aarti in the evening. Walk around local markets or ghats. Return to the stay facility, have dinner and overnight stay in Haridwar.",
-        "label": "HIMALAYAN & NATURE JOURNEYS",
+        "label": "Himalayan Journeys",
         "places": [
           "Har Ki Pauri",
           "Local markets and ghats"
@@ -1257,7 +1257,7 @@ window.TH_PACKAGES = [
           "This morning, rise early and depart to Dharali (Harsil). Have breakfast enroute at a convenient place. Drive further to Dharali. Visit Kashi Vishwanath Temple at Uttarkashi. An ancient Shiva temple with historical and spiritual importance. Arrival at Dharali By evening. Check into the stay facility & fresh up. Later, if time permits, visit the Kalpakedar Temple located on the banks of the Bhagirathi. Attend evening Aarti at the temple. Return to the stay facility, have dinner and overnight stay at Dharali."
         ],
         "description": "This morning, rise early and depart to Dharali (Harsil). Have breakfast enroute at a convenient place. Drive further to Dharali. Visit Kashi Vishwanath Temple at Uttarkashi. An ancient Shiva temple with historical and spiritual importance. Arrival at Dharali By evening. Check into the stay facility & fresh up. Later, if time permits, visit the Kalpakedar Temple located on the banks of the Bhagirathi. Attend evening Aarti at the temple. Return to the stay facility, have dinner and overnight stay at Dharali.",
-        "label": "HIMALAYAN & NATURE JOURNEYS",
+        "label": "Himalayan Journeys",
         "places": [
           "Kashi Vishwanath Temple, Uttarkashi",
           "Kalpakedar Temple (if time permits)"
@@ -1270,7 +1270,7 @@ window.TH_PACKAGES = [
           "This morning, after breakfast, we leave for a full day short trekking excursion. Trek to Bhagori Village, Lama Top and Harsil. Bhagori Village is a Tibetan village known for wooden houses and hospitality. Lama Top offers panoramic views of snow-capped peaks and valley below. Harsil is Army Headquarter of the region. Evening, Trek or drive back to Dharali. Return to the stay facility, have dinner and overnight stay at Dharali."
         ],
         "description": "This morning, after breakfast, we leave for a full day short trekking excursion. Trek to Bhagori Village, Lama Top and Harsil. Bhagori Village is a Tibetan village known for wooden houses and hospitality. Lama Top offers panoramic views of snow-capped peaks and valley below. Harsil is Army Headquarter of the region. Evening, Trek or drive back to Dharali. Return to the stay facility, have dinner and overnight stay at Dharali.",
-        "label": "HIMALAYAN & NATURE JOURNEYS",
+        "label": "Himalayan Journeys",
         "places": [
           "Bhagori Village",
           "Lama Top",
@@ -1284,7 +1284,7 @@ window.TH_PACKAGES = [
           "This morning, rise early and drive towards Gartang Gali (Aaprox 25 km from Dharali). Gartang Gali is An ancient wooden bridge and cliff-hugging path – 2.5 km (one-way) moderate trek, originally used for Indo-Tibetan Trade. Later, proceed to Nelong Valley which is a restricted valley near the Indo-China border (depends on Permit from Army). Enroute, stop at Bhairav Ghati, and further drive to Gangotri. Darshan at Gangotri Temple, one of the Chardhams in Uttarakhand. Gangotri is located at an altitude of 3,100m and is situated on the banks of Bhagirathi river. Late afternoon we proceed back to Dharali. Late evening, return to the stay facility, have dinner and overnight stay at Dharali."
         ],
         "description": "This morning, rise early and drive towards Gartang Gali (Aaprox 25 km from Dharali). Gartang Gali is An ancient wooden bridge and cliff-hugging path – 2.5 km (one-way) moderate trek, originally used for Indo-Tibetan Trade. Later, proceed to Nelong Valley which is a restricted valley near the Indo-China border (depends on Permit from Army). Enroute, stop at Bhairav Ghati, and further drive to Gangotri. Darshan at Gangotri Temple, one of the Chardhams in Uttarakhand. Gangotri is located at an altitude of 3,100m and is situated on the banks of Bhagirathi river. Late afternoon we proceed back to Dharali. Late evening, return to the stay facility, have dinner and overnight stay at Dharali.",
-        "label": "HIMALAYAN & NATURE JOURNEYS",
+        "label": "Himalayan Journeys",
         "places": [
           "Gartang Gali",
           "Nelong Valley (Army permit dependent)",
@@ -1299,7 +1299,7 @@ window.TH_PACKAGES = [
           "This morning, rise early and leave for a Trekking Excursion to Saat Taal, a group of 7 high-altitude lakes. It is a Moderate to difficult trek & takes 6–7 hours round trip. We have Pack Breakfast and Pack Lunch during the trek. Late afternoon, return to Dharali. Evening, Visit the Kalpkedar Temple located on the banks of Bhagirathi. Attend the evening Aarti at Kalpakedar Temple. Return to the stay facility, have dinner and overnight stay at Dharali."
         ],
         "description": "This morning, rise early and leave for a Trekking Excursion to Saat Taal, a group of 7 high-altitude lakes. It is a Moderate to difficult trek & takes 6–7 hours round trip. We have Pack Breakfast and Pack Lunch during the trek. Late afternoon, return to Dharali. Evening, Visit the Kalpkedar Temple located on the banks of Bhagirathi. Attend the evening Aarti at Kalpakedar Temple. Return to the stay facility, have dinner and overnight stay at Dharali.",
-        "label": "HIMALAYAN & NATURE JOURNEYS",
+        "label": "Himalayan Journeys",
         "places": [
           "Saat Taal trek",
           "Kalpakedar Temple and evening aarti"
@@ -1313,7 +1313,7 @@ window.TH_PACKAGES = [
           "Afternoon, we take a walk to the Mandakini Waterfall. It is a scenic, lesser-known waterfall near Dharali. Later, return to the stay facility, have dinner and overnight stay at Dharali."
         ],
         "description": "This morning, after breakfast, we leave for a full day short trekking excursion to Mukhba Village, the winter seat of Goddess Ganga. When Gangotri Temple is closed during winters, the utsav murti is brought at Mukhba and worshipped here. Have a look at the traditional wooden houses and explore the beautiful heritage village. Later, head back to Dharali. Afternoon, we take a walk to the Mandakini Waterfall. It is a scenic, lesser-known waterfall near Dharali. Later, return to the stay facility, have dinner and overnight stay at Dharali.",
-        "label": "HIMALAYAN & NATURE JOURNEYS",
+        "label": "Himalayan Journeys",
         "places": [
           "Mukhba Village",
           "Mandakini Waterfall"
@@ -1326,7 +1326,7 @@ window.TH_PACKAGES = [
           "This morning, rise early & check out. Drive to Rishikesh (270 km, 9–10 hours). If time permits, go for a short white-water rafting session (as per time availability). Reach the stay facility and check in. Evening, attend the Ganga Aarti at Rishikesh. Return to the stay facility, have dinner and overnight stay at Rishikesh."
         ],
         "description": "This morning, rise early & check out. Drive to Rishikesh (270 km, 9–10 hours). If time permits, go for a short white-water rafting session (as per time availability). Reach the stay facility and check in. Evening, attend the Ganga Aarti at Rishikesh. Return to the stay facility, have dinner and overnight stay at Rishikesh.",
-        "label": "HIMALAYAN & NATURE JOURNEYS",
+        "label": "Himalayan Journeys",
         "places": [
           "Drive to Rishikesh",
           "Evening Ganga Aarti"
@@ -1339,7 +1339,7 @@ window.TH_PACKAGES = [
           "This Morning is free for leisure / adventure activities like Water Rafting / Bunjee Jumping or Visit to Neelkanth Mahadev Temple. These activities are directly payable and are as per choice. Afternoon we depart to Haridwar. Reach and check into the stay facility. Later the time is free to explore Haridwar on your own or visit Haridwar Markets for Shopping. If interested you can attend the evening Ganga Aarti at Hari ki Pauri. Later, return to the stay facility, have dinner and overnight stay at Haridwar."
         ],
         "description": "This Morning is free for leisure / adventure activities like Water Rafting / Bunjee Jumping or Visit to Neelkanth Mahadev Temple. These activities are directly payable and are as per choice. Afternoon we depart to Haridwar. Reach and check into the stay facility. Later the time is free to explore Haridwar on your own or visit Haridwar Markets for Shopping. If interested you can attend the evening Ganga Aarti at Hari ki Pauri. Later, return to the stay facility, have dinner and overnight stay at Haridwar.",
-        "label": "HIMALAYAN & NATURE JOURNEYS",
+        "label": "Himalayan Journeys",
         "places": [
           "Optional rafting / bungee jumping or Neelkanth Mahadev Temple",
           "Haridwar markets",
@@ -1353,7 +1353,7 @@ window.TH_PACKAGES = [
           "This morning, Departure to Delhi in the morning by Janashatabdi express, further board train to C. Sambhaji Nagar / Pune"
         ],
         "description": "This morning, Departure to Delhi in the morning by Janashatabdi express, further board train to C. Sambhaji Nagar / Pune",
-        "label": "HIMALAYAN & NATURE JOURNEYS",
+        "label": "Himalayan Journeys",
         "places": [
           "Return travel from Haridwar"
         ],
