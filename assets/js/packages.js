@@ -753,8 +753,8 @@ window.TH_PACKAGES = [
   },
   {
     "id": "pancha-bhoota",
-    "slug": "pancha-bhoota-temple-heritage",
-    "title": "Pancha Bhoota & Temple Heritage Tour",
+    "slug": "pancha-bhoota-temple-circuit-heritage",
+    "title": "Pancha Bhoota & Temple Circuit Heritage Tour",
     "route": "Chennai → Srikalahasti → Kanchipuram → Tiruvannamalai → Trichy → Tanjore → Chidambaram → Chennai",
     "durationDays": 6,
     "durationNights": 5,
@@ -864,7 +864,7 @@ window.TH_PACKAGES = [
     "departureNote": "",
     "image": "pancha-bhoota-temple-heritage-hero.jpg",
     "bookingNote": "Only 12 seats · Departure date: enquire",
-    "whatsappMessage": "Hi Timeless Heritage! I'm interested in the Pancha Bhoota & Temple Heritage Tour (5 nights / 6 days). Please share the detailed itinerary, upcoming departure dates, current availability, final price, inclusions, exclusions and booking process."
+    "whatsappMessage": "Hi Timeless Heritage! I'm interested in the Pancha Bhoota & Temple Circuit Heritage Tour (5 nights / 6 days). Please share the detailed itinerary, upcoming departure dates, current availability, final price, inclusions, exclusions and booking process."
   },
   {
     "id": "gwalior-jain",
