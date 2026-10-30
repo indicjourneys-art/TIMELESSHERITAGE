@@ -88,7 +88,7 @@ window.TH_PACKAGES = [
     "departure": "05 December 2026",
     "start": "Ahmedabad",
     "related": [
-      "aurangabad",
+      "ellora",
       "gwalior-jain",
       "jaipur-pushkar"
     ],
@@ -822,9 +822,9 @@ window.TH_PACKAGES = [
     "whatsappMessage": "Hi Timeless Heritage! I'm interested in the Varanasi, Ayodhya & Prayagraj (6 nights / 7 days). Please share the detailed itinerary, upcoming departure dates, current availability, final price, inclusions, exclusions and booking process."
   },
   {
-    "id": "aurangabad",
-    "slug": "aurangabad-heritage",
-    "title": "Aurangabad Heritage & Ellora Caves",
+    "id": "ellora",
+    "slug": "ellora-heritage",
+    "title": "Caves & Temples - Ellora",
     "route": "Chhatrapati Sambhaji Nagar → Ellora → Daulatabad → Chhatrapati Sambhaji Nagar",
     "durationDays": 4,
     "durationNights": 3,
@@ -900,7 +900,7 @@ window.TH_PACKAGES = [
     "departureNote": "",
     "image": "aurangabad-heritage-hero.jpg",
     "bookingNote": "Only 12 seats · Departure date: enquire",
-    "whatsappMessage": "Hi Timeless Heritage! I'm interested in the Aurangabad Heritage & Ellora Caves (3 nights / 4 days). Please share the detailed itinerary, upcoming departure dates, current availability, final price, inclusions, exclusions and booking process."
+    "whatsappMessage": "Hi Timeless Heritage! I'm interested in the Caves & Temples - Ellora (3 nights / 4 days). Please share the detailed itinerary, upcoming departure dates, current availability, final price, inclusions, exclusions and booking process."
   },
   {
     "id": "pancha-bhoota",
@@ -1131,7 +1131,7 @@ window.TH_PACKAGES = [
     "start": "Gwalior",
     "related": [
       "gujarat",
-      "aurangabad",
+      "ellora",
       "jaipur-pushkar"
     ],
     "departureNote": "",
@@ -1739,7 +1739,7 @@ window.TH_PACKAGES = [
     "departure": "",
     "related": [
       "gujarat",
-      "aurangabad",
+      "ellora",
       "gwalior-jain"
     ],
     "id": "jaipur-pushkar",
@@ -2870,7 +2870,7 @@ window.TH_PACKAGES = [
     "departure": "",
     "related": [
       "gujarat",
-      "aurangabad",
+      "ellora",
       "gwalior-jain"
     ],
     "id": "royal-rajasthan",
