@@ -712,6 +712,7 @@ window.TH_PACKAGES = [
         "overnight": "Chhatrapati Sambhaji Nagar",
         "label": "CAVES • TEMPLE"
       },
+      
       {
         "title": "Forts & Caves",
         "description": "After breakfast, visit the fort and cave sites listed for the day.",
