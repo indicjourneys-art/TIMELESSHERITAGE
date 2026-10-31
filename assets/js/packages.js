@@ -1610,4 +1610,248 @@ window.TH_PACKAGES = [
     "departureNote": "",
     "whatsappMessage": "Hi Timeless Heritage! I'm interested in the Exotic Bhutan (7 nights / 8 days). Please share the detailed itinerary, upcoming departure dates, current availability, final price, inclusions, exclusions and booking process."
   },
+    {
+    "id": "madhya-pradesh-cultural-circuit",
+    "slug": "madhya-pradesh-cultural-circuit",
+    "title": "Madhya Pradesh Cultural Circuit",
+    "route": "Ujjain → Dhar → Mandu → Maheshwar → Indore",
+    "durationDays": 5,
+    "durationNights": 4,
+    "price": 17499,
+    "category": "Heritage & Architecture",
+    "description": "Discover Madhya Pradesh’s temple heritage, historic forts, Mandu’s celebrated monuments, Maheshwar’s riverfront and Indore’s vibrant food culture.",
+
+    "highlights": [
+      "Mahakaal Corridor",
+      "Dhar Fort",
+      "Jahaz Mahal",
+      "Maheshwar Fort",
+      "Sarafa Bazaar"
+    ],
+
+    "itinerary": [
+      {
+        "title": "Arrival in Ujjain & Mahakaleshwar Temple",
+        "description": "Arrive at Ujjain, where you will be picked up and transferred to the hotel for check-in. Freshen up and have breakfast. After breakfast, visit Mahakaleshwar Temple, one of the 12 Jyotirlingas. Located on the banks of the Kshipra River, the temple houses a Dakshinmukhi Shivalinga. The current temple was commissioned by Maratha General Ranoji Shinde and financed by his diwan, Ramchandra Baba Sukhatankar Shenavi. In the evening, visit the Mahakaal Corridor to experience its lighting. Return to the hotel for an overnight stay in Ujjain.",
+        "label": "SPIRITUAL HERITAGE",
+        "places": [
+          "Mahakaleshwar Temple",
+          "Mahakaal Corridor"
+        ],
+        "overnight": "Ujjain"
+      },
+
+      {
+        "title": "Dhar Fort & the Monuments of Mandu",
+        "description": "Check out and drive to Mandu via Dhar. Visit Dhar Fort before proceeding to Mandu. Explore Roopmati Pavilion, Champa Baodi, Hindola Mahal, Jahaz Mahal and other monuments. Late in the evening, continue to Maheshwar. On arrival, check in to the stay facility, have dinner and settle in for the night.",
+        "label": "FORTS & ARCHITECTURE",
+        "places": [
+          "Dhar Fort",
+          "Roopmati Pavilion",
+          "Champa Baodi",
+          "Hindola Mahal",
+          "Jahaz Mahal"
+        ],
+        "overnight": "Maheshwar"
+      },
+
+      {
+        "title": "Maheshwar Fort, Temples & Ghats",
+        "description": "After breakfast, explore Maheshwar. According to many historians, Maheshwar is the same as Mahismati, the capital of King Sahasrarjun of the Haihaya Kingdom, who was slain by Lord Parshuram. The city also served as the capital of Punyashlok Maharani Ahilyabai Holkar in the late 19th century. Visit Raj Rajeshwar Temple, Ahilyeshwar Temple, Maheshwar Fort and the ghats. Return to the hotel in the late evening for an overnight stay in Maheshwar.",
+        "label": "MAHESHWAR HERITAGE",
+        "places": [
+          "Raj Rajeshwar Temple",
+          "Ahilyeshwar Temple",
+          "Maheshwar Fort",
+          "Maheshwar Ghat"
+        ],
+        "overnight": "Maheshwar"
+      },
+
+      {
+        "title": "Indore Heritage & Sarafa Bazaar",
+        "description": "After breakfast, drive to Indore. On arrival, check in and proceed for local sightseeing. Visit Rajwada Palace, Lal Bagh Palace and the Central Museum. In the evening, return to the hotel to freshen up, then head out to explore Sarafa Bazaar, known for its food stalls that operate through the night. Return to the hotel for an overnight stay in Indore.",
+        "label": "CITY CULTURE & CUISINE",
+        "places": [
+          "Rajwada Palace",
+          "Lal Bagh Palace",
+          "Central Museum",
+          "Sarafa Bazaar"
+        ],
+        "overnight": "Indore"
+      },
+
+      {
+        "title": "Departure from Indore",
+        "description": "After breakfast, enjoy some free time at leisure. Later, check out of the hotel and transfer to the railway station, bus stand or airport for your return journey.",
+        "label": "DEPARTURE",
+        "places": [
+          "Indore Railway Station / Bus Stand / Airport"
+        ],
+        "overnight": null
+      }
+    ],
+
+    "inclusions": [
+      "Accommodation",
+      "04 breakfasts",
+      "04 dinners",
+      "Sightseeing as per itinerary",
+      "Visit to Mahakaal Corridor",
+      "Visit to Sarafa Bazaar"
+    ],
+
+    "exclusions": [
+      "Train / Bus / Airfare",
+      "Any expense of personal nature",
+      "Meals other than specified",
+      "Entrance fees to the monuments",
+      "Anything not specifically mentioned in the inclusions",
+      "5% GST extra"
+    ],
+
+    "notes": [],
+
+    "image": "madhya-pradesh-cultural-circuit-hero.jpg",
+    "bookingNote": "Departure: 16–20 January 2027",
+    "priceNote": "",
+    "departure": "",
+    "start": "Ujjain",
+
+    "related": [
+      "central-india-wonders",
+      "jaipur-pushkar",
+      "royal-rajasthan"
+    ],
+
+    "departureNote": "",
+    "whatsappMessage": "Hi Timeless Heritage! I'm interested in the Madhya Pradesh Cultural Circuit (4 nights / 5 days), departing 16–20 January 2027. Please share the detailed itinerary, availability, final price, inclusions, exclusions and booking process."
+  },
+    {
+    "id": "navagraha-anugraha-tour",
+    "slug": "navagraha-anugraha-tour",
+    "title": "Navagraha Anugraha Tour",
+    "route": "Trichy → Swamimalai → Kumbakonam → Navagraha Temples → Thanjavur → Trichy",
+    "durationDays": 5,
+    "durationNights": 4,
+    "price": 17999,
+    "category": "Spiritual & Temple Journeys",
+    "description": "Visit all nine Navagraha temples around Kumbakonam, alongside revered Murugan and Shiva temples and the Chola heritage of Thanjavur and Trichy.",
+
+    "highlights": [
+      "Swamimalai Swaminathaswamy Temple",
+      "Alangudi Guru Temple",
+      "Thirunageswaram Rahu Temple",
+      "Thirunallar Sani Temple",
+      "Suryanar Koil Sun Temple",
+      "Kanchanoor Sukkiran Temple",
+      "Vaitheeswaran Koil Sevvai Temple",
+      "Thiruvenkadu Budhan Temple",
+      "Keezhaperumpallam Kethu Temple",
+      "Thingaloor Chandran Temple",
+      "Brihadeeswarar Temple",
+      "Sri Ranganathaswamy Temple",
+      "Thiruvanaikovil Jambukeswarar Temple"
+    ],
+
+    "itinerary": [
+      {
+        "title": "Arrival in Trichy & Kumbakonam via Swamimalai",
+        "description": "Arrive at Trichy Airport or Railway Station and depart by road towards Kumbakonam. En route, visit Swamimalai Swaminathaswamy Temple, one of the Arupadai Veedu abodes of Lord Murugan. In the afternoon, check in to your hotel in Kumbakonam and rest. In the evening, visit local temples including Adi Kumbeswarar Temple and the Mahamaham Tank. Overnight stay in Kumbakonam.",
+        "label": "ARRIVAL & TEMPLE HERITAGE",
+        "places": [
+          "Swamimalai Swaminathaswamy Temple",
+          "Adi Kumbeswarar Temple",
+          "Mahamaham Tank"
+        ],
+        "overnight": "Kumbakonam"
+      },
+
+      {
+        "title": "Navagraha Circuit – Part 1: Guru, Rahu & Shani",
+        "description": "Begin the Navagraha circuit with visits to Alangudi, home of the Guru (Jupiter) Temple, also known as Apatsahayesvarar Temple, and Thirunageswaram, home of the Rahu Temple, also known as Naganathar Temple. In the afternoon, drive towards Karaikal and Thirunallar to visit the Sani (Saturn) Temple, Dharbaranyeswarar Temple. Return to Kumbakonam in the evening to relax. Overnight stay in Kumbakonam.",
+        "label": "NAVAGRAHA CIRCUIT",
+        "places": [
+          "Alangudi – Guru (Jupiter) Temple / Apatsahayesvarar Temple",
+          "Thirunageswaram – Rahu Temple / Naganathar Temple",
+          "Thirunallar – Sani (Saturn) Temple / Dharbaranyeswarar Temple"
+        ],
+        "overnight": "Kumbakonam"
+      },
+
+      {
+        "title": "Navagraha Circuit – Part 2: Sun, Venus, Mars, Mercury, Ketu & Moon",
+        "description": "Continue the Navagraha circuit with visits to Suryanar Koil for the Suriyan (Sun) Temple, Kanchanoor for the Sukkiran (Venus) Temple, Agniswarar Temple, and Vaitheeswaran Koil for the Sevvai (Mars) Temple. After lunch, proceed to Thiruvenkadu for the Budhan (Mercury) Temple, Swetharanyeswarar Temple, and Keezhaperumpallam for the Kethu Temple, Nagannathaswamy Temple. In the evening, visit Thingaloor – Chandran (Moon) Temple, Kailasanathar Temple, completing the nine Navagraha temples. Overnight stay in Kumbakonam.",
+        "label": "NAVAGRAHA CIRCUIT",
+        "places": [
+          "Suryanar Koil – Suriyan (Sun) Temple",
+          "Kanchanoor – Sukkiran (Venus) Temple / Agniswarar Temple",
+          "Vaitheeswaran Koil – Sevvai (Mars) Temple",
+          "Thiruvenkadu – Budhan (Mercury) Temple / Swetharanyeswarar Temple",
+          "Keezhaperumpallam – Kethu Temple / Nagannathaswamy Temple",
+          "Thingaloor – Chandran (Moon) Temple / Kailasanathar Temple"
+        ],
+        "overnight": "Kumbakonam"
+      },
+
+      {
+        "title": "Kumbakonam to Thanjavur – Heritage & Art",
+        "description": "After breakfast, check out from Kumbakonam and drive to Thanjavur. Visit the UNESCO World Heritage Brihadeeswarar Temple, also known as the Big Temple, an approximately 1,000-year-old architectural landmark. Spend time shopping for traditional Tanjore paintings and handicrafts in the local market. The evening is free to explore or relax. Overnight stay in Thanjavur or transfer back/stay towards Trichy, as per preference.",
+        "label": "CHOLA HERITAGE & ART",
+        "places": [
+          "Brihadeeswarar Temple (The Big Temple)",
+          "Local market – Tanjore paintings & handicrafts"
+        ],
+        "overnight": "Thanjavur or Trichy (as per preference)"
+      },
+
+      {
+        "title": "Thanjavur to Trichy – Temples & Departure",
+        "description": "Drive from Thanjavur to Trichy. During the day, visit Sri Ranganathaswamy Temple in Srirangam, the vast reclining Vishnu shrine, and Thiruvanaikovil Sri Jambukeswarar Temple, representing the water element of Shiva. Later, transfer to Trichy Junction Railway Station or Trichy International Airport for your onward journey.",
+        "label": "TEMPLE HERITAGE & DEPARTURE",
+        "places": [
+          "Sri Ranganathaswamy Temple, Srirangam",
+          "Thiruvanaikovil Sri Jambukeswarar Temple",
+          "Trichy Junction Railway Station / Trichy International Airport"
+        ],
+        "overnight": null
+      }
+    ],
+
+    "inclusions": [
+      "Accommodation",
+      "04 breakfasts",
+      "04 dinners",
+      "Sightseeing as per itinerary",
+      "Visit to Brihadeeswarar Temple",
+      "Visit to Sri Ranganathaswamy Temple",
+      "Visit to Sri Jambukeswarar Temple"
+    ],
+
+    "exclusions": [
+      "Train / Bus / Airfare",
+      "Any expense of personal nature",
+      "Meals other than specified",
+      "Entrance fees to the monuments",
+      "Anything not specifically mentioned in the inclusions",
+      "5% GST extra"
+    ],
+
+    "notes": [],
+
+    "image": "navagraha-anugraha-tour-hero.jpg",
+    "bookingNote": "Departure: 08–12 February 2027",
+    "priceNote": "",
+    "departure": "",
+    "start": "Trichy",
+
+    "related": [
+      "southern-sojourn",
+      "madurai-rameshwaram",
+      "pancha-bhoota"
+    ],
+
+    "departureNote": "",
+    "whatsappMessage": "Hi Timeless Heritage! I'm interested in the Navagraha Anugraha Tour (4 nights / 5 days), departing 08–12 February 2027. Please share the detailed itinerary, availability, final price, inclusions, exclusions and booking process."
+  }
 ];
