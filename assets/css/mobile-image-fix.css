@@ -98,4 +98,53 @@
   .thh-dot.is-active {
     width: 16px !important;
   }
+/* Timeless Heritage — mobile homepage story section fix */
+
+@media (max-width: 720px) {
+
+  html,
+  body {
+    max-width: 100%;
+    overflow-x: hidden;
+  }
+
+  .story-strip {
+    display: grid !important;
+    grid-template-columns: minmax(0, 1fr) !important;
+    width: 100%;
+    max-width: 100%;
+    gap: 24px;
+    min-width: 0;
+  }
+
+  .story-strip > div {
+    width: 100%;
+    max-width: 100%;
+    min-width: 0;
+    grid-column: auto !important;
+  }
+
+  .story-strip .image-frame,
+  .story-strip .image-frame.wide {
+    width: 100%;
+    max-width: 100%;
+    min-width: 0;
+    aspect-ratio: 16 / 10;
+    min-height: 0;
+  }
+
+  .story-strip .image-frame img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .story-caption {
+    max-width: 100%;
+    white-space: normal;
+    overflow-wrap: anywhere;
+    font-size: 0.68rem;
+    letter-spacing: 0.10em;
+    line-height: 1.5;
+  }
 }
