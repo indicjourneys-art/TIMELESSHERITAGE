@@ -1110,7 +1110,7 @@ window.TH_PACKAGES = [
         "overnight": "Jaipur"
       },
       {
-        "title": "Jaipur – Pushkar – Jaipur",
+        "title": "Jaipur – Pushkar",
         "paragraphs": [
           "Early Morning, depart to Pushkar. The distance is approx. 150 km & it takes roughly around 3&1/2 Hours of Drive. Have Breakfast Enroute. Reach Pushkar & visit the Pushkar Lake. It is also known as the Pushkar Sarovar. It has more than 50 bathing ghats is said to cleanse you of your sins. Later, visit the Brahma Temple. Situated beside the Pushkar Lake it is one of its kinds. The bird motif used in the place is unique one. The place is packed with architectural features. The pillared outdoor hall, stone slabs combined with molten lead in the inside, the marble steps are all very fascinating to the tourists. We then proceed to Savitri Temple. Located on the top of Ratnagiri Hills, the temple was built in 1687. It is said to be the place where Goddess Savitri rested for a while. Presently, Goddesses Savitri and Gayatri are being prayed in the temple. We then visit the Man Mahal Palace. This is the largest Royal residence in the town. The structure had been built beside the Sarovar Lake by Raja man Singh-1 as a retreat palace. The interiors of the palace are a treat to the visitors reflecting the Rajasthani elements combined with Mughal architecture. We end our exploration with a visit to the Pushkar Bazaar. Rose pulp, syrup and gulkand are sold here at reasonable rates. Handicraft items, embroidered fabrics, brass utensils, glass ware, leather bags made of camel skin, and belts and many more such unique items can be purchased in the bustling Pushkar Bazaar. Evening, we depart to back to Jaipur. We have Dinner enroute. Reach Jaipur and Overnight stay in Jaipur."
         ],
@@ -1169,7 +1169,6 @@ window.TH_PACKAGES = [
     "departureNote": "",
     "whatsappMessage": "Hi Timeless Heritage! I'm interested in the Jaipur with Pushkar (4 nights / 5 days). Please share the detailed itinerary, upcoming departure dates, current availability, final price, inclusions, exclusions and booking process."
   },
-  {
   {
     "title": "Southern Sojourn",
     "durationDays": 5,
