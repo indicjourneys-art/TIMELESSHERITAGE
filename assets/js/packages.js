@@ -116,7 +116,7 @@ window.TH_PACKAGES = [
     "route": "Bhubaneswar → Konark → Puri → Chilika Lake → Bhubaneswar",
     "durationDays": 6,
     "durationNights": 5,
-    "price": 39999,
+    "price": 24999,
     "category": "Spiritual & Temple Journeys",
     "description": "Discover Odisha’s temple architecture, Jain cave heritage, coastal spirituality and the lagoon landscape of Chilika.",
     "highlights": [
@@ -195,7 +195,6 @@ window.TH_PACKAGES = [
       }
     ],
     "inclusions": [
-      "Pune–Bhubaneswar–Pune air ticket",
       "Accommodation on twin sharing",
       "05 breakfasts",
       "05 dinners",
@@ -206,13 +205,13 @@ window.TH_PACKAGES = [
       "Sightseeing as per itinerary in AC vehicle",
       "All toll, parking and driver charges"
     ],
-    "exclusions": [
-      "Personal expenses",
-      "Meals other than specified",
-      "Monument entrance fees",
-      "Anything not specifically mentioned in inclusions",
-      "Air/Train/Bus fare unless expressly listed under Inclusions",
-      "5% GST extra"
+"exclusions": [
+      "Airfare, train fare and bus fare unless expressly included",
+      "Meals other than those specified",
+      "Monument, temple and museum entry fees",
+      "Personal expenses, shopping, tips and beverages",
+      "Anything not specifically mentioned under Inclusions",
+      "Applicable GST and taxes, unless expressly included"
     ],
     "priceNote": "GST 5% extra",
     "departure": "",
