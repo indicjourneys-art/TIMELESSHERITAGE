@@ -79,10 +79,22 @@ window.TH_PACKAGES = [
         "label": "CITY CULTURE • DEPARTURE"
       }
     ],
-    "inclusions": [""],
+        "inclusions": [
+      "Accommodation as per itinerary",
+      "Meals specifically mentioned in the itinerary",
+      "Transfers and sightseeing as per itinerary",
+      "Transportation as specified in the package",
+      "Driver, fuel, toll and parking charges for included transportation"
+    ],
+
     "exclusions": [
-      "Air/Train/Bus fare unless expressly listed under Inclusions",
-      "5% GST extra"
+      "Airfare, train fare and bus fare unless expressly included",
+      "Meals other than those specified",
+      "Monument, temple and museum entry fees",
+      "Personal expenses, shopping, tips and beverages",
+      "Early check-in and late check-out charges",
+      "Anything not specifically mentioned under Inclusions",
+      "Applicable 5% GST"
     ],
     "priceNote": "From ₹16,999 per person",
     "departure": "05 December 2026",
