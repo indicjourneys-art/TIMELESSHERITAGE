@@ -211,7 +211,7 @@ window.TH_PACKAGES = [
       "Monument, temple and museum entry fees",
       "Personal expenses, shopping, tips and beverages",
       "Anything not specifically mentioned under Inclusions",
-      "Applicable GST and taxes, unless expressly included"
+      "Applicable 5% GST"
     ],
     "priceNote": "GST 5% extra",
     "departure": "",
@@ -310,9 +310,13 @@ window.TH_PACKAGES = [
       "Sightseeing as per itinerary",
       "Services of a trip leader"
     ],
-    "exclusions": [
-      "Air/Train/Bus fare unless expressly listed under Inclusions",
-      "5% GST extra"
+     "exclusions": [
+      "Airfare, train fare and bus fare unless expressly included",
+      "Meals other than those specified",
+      "Monument, temple and museum entry fees",
+      "Personal expenses, shopping, tips and beverages",
+      "Anything not specifically mentioned under Inclusions",
+      "Applicable 5% GST"
     ],
     "priceNote": "",
     "departure": "",
