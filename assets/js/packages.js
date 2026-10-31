@@ -79,7 +79,8 @@ window.TH_PACKAGES = [
         "label": "CITY CULTURE • DEPARTURE"
       }
     ],
-    "inclusions": [],
+    "inclusions": "Air/Train/Bus fare unless expressly listed under Inclusions",
+      "5% GST extra",
     "exclusions": [
       "Air/Train/Bus fare unless expressly listed under Inclusions",
       "5% GST extra"
@@ -752,21 +753,25 @@ window.TH_PACKAGES = [
     "bookingNote": "Only 12 seats · Departure date: enquire",
     "whatsappMessage": "Hi Timeless Heritage! I'm interested in the Caves & Temples - Ellora (3 nights / 4 days). Please share the detailed itinerary, upcoming departure dates, current availability, final price, inclusions, exclusions and booking process."
   },
-  {
+   {
     "id": "pancha-bhoota",
-    "slug": "pancha-bhoota-temple-circuit-heritage",
-    "title": "Pancha Bhoota & Temple Circuit Heritage Tour",
+    "slug": "pancha-bhoota-temple-heritage",
+    "title": "Pancha Bhoota Temple Circuit Heritage Tour",
     "route": "Chennai → Srikalahasti → Kanchipuram → Tiruvannamalai → Trichy → Tanjore → Chidambaram → Chennai",
     "durationDays": 6,
     "durationNights": 5,
     "price": 0,
     "category": "Spiritual & Temple Journeys",
-    "description": "A six-day temple and cultural route through Tamil Nadu and nearby sacred destinations, with architecture, traditional crafts and optional experiences.",
+    "description": "Discover the sacred Pancha Bhoota temples and the rich spiritual, architectural and cultural heritage of Tamil Nadu on a six-day journey.",
+
     "highlights": [
       "Srikalahasteeswara Temple",
-      "Ekambareswarar, Kamakshi Amman and Varadharaja Perumal temples",
+      "Ekambareswarar Temple",
+      "Kamakshi Amman Temple",
+      "Varadharaja Perumal Temple",
       "Arunachaleswarar Temple",
-      "Jambukeswarar and Sri Ranganathaswamy temples",
+      "Jambukeswarar Temple",
+      "Sri Ranganathaswamy Temple",
       "Rockfort Temple",
       "Brihadeeswarar Temple",
       "Thanjavur Palace",
@@ -774,6 +779,7 @@ window.TH_PACKAGES = [
       "Nataraja Temple",
       "Optional Pichavaram boating"
     ],
+
     "itinerary": [
       {
         "title": "Chennai – Srikalahasti – Kanchipuram",
@@ -849,23 +855,29 @@ window.TH_PACKAGES = [
         "label": "DEPARTURE"
       }
     ],
+
     "inclusions": [],
+
     "exclusions": [
       "Air/Train/Bus fare unless expressly listed under Inclusions",
       "5% GST extra"
     ],
+
     "priceNote": "Price not supplied — ₹0000 is a temporary placeholder.",
     "departure": "",
     "start": "Chennai",
+
     "related": [
       "odisha",
       "kedarnath",
       "varanasi"
     ],
+
     "departureNote": "",
     "image": "pancha-bhoota-temple-heritage-hero.jpg",
-    "bookingNote": "Only 12 seats · Departure date: enquire",
-    "whatsappMessage": "Hi Timeless Heritage! I'm interested in the Pancha Bhoota & Temple Circuit Heritage Tour (5 nights / 6 days). Please share the detailed itinerary, upcoming departure dates, current availability, final price, inclusions, exclusions and booking process."
+    "bookingNote": "Departure date: enquire",
+
+    "whatsappMessage": "Hi Timeless Heritage! I'm interested in the Pancha Bhoota Temple Circuit Heritage Tour (5 nights / 6 days). Please share the detailed itinerary, upcoming departure dates, current availability, final price, inclusions, exclusions and booking process."
   },
   {
     "id": "gwalior-jain",
