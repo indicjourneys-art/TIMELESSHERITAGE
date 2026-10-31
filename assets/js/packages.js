@@ -79,7 +79,7 @@ window.TH_PACKAGES = [
         "label": "CITY CULTURE • DEPARTURE"
       }
     ],
-    "inclusions": [],
+    "inclusions": [""],
     "exclusions": [
       "Air/Train/Bus fare unless expressly listed under Inclusions",
       "5% GST extra"
