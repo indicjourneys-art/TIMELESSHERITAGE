@@ -754,7 +754,7 @@ window.TH_PACKAGES = [
   },
   {
     "id": "pancha-bhoota",
-    "slug": "pancha-bhoota-temple-circuit-heritage",
+    "slug": "pancha-bhoota-temple-temple-heritage",
     "title": "Pancha Bhoota & Temple Circuit Heritage Tour",
     "route": "Chennai → Srikalahasti → Kanchipuram → Tiruvannamalai → Trichy → Tanjore → Chidambaram → Chennai",
     "durationDays": 6,
