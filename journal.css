@@ -1,0 +1,25 @@
+
+/* Timeless Heritage Journal — uses the existing ivory / espresso / antique-gold palette */
+.journal-intro{background:#2b190d;color:#f6efe3;padding:72px 0 64px}
+.journal-intro .eyebrow{color:#d99427}
+.journal-intro h1{font-size:clamp(2.8rem,6vw,5rem);line-height:1.02;margin:12px 0 18px}
+.journal-intro p{max-width:680px;color:#e7d9c6;font-size:1.08rem}
+.journal-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:28px}
+.journal-card{min-width:0;background:#fbf7ef;border:1px solid #e2d2b8;display:flex;flex-direction:column}
+.journal-card a{color:inherit;text-decoration:none}
+.journal-card img{display:block;width:100%;aspect-ratio:4/3;object-fit:cover;background:#e9dfcf}
+.journal-card-body{padding:22px;display:flex;flex-direction:column;gap:10px;flex:1}
+.journal-meta{font-size:.72rem;letter-spacing:.12em;text-transform:uppercase;color:#9a6b27}
+.journal-card h2{font-size:1.35rem;line-height:1.2;margin:0;color:#25180f}
+.journal-card p{color:#65584b;margin:0;line-height:1.7}
+.journal-read{margin-top:auto;padding-top:12px;color:#8c5a12;font-weight:700;letter-spacing:.06em;text-transform:uppercase;font-size:.78rem}
+.journal-article{max-width:850px;margin:0 auto}
+.journal-article .article-cover{width:100%;aspect-ratio:16/9;object-fit:cover;background:#e9dfcf;margin:22px 0 30px}
+.journal-article h1{font-size:clamp(2.2rem,5vw,4.3rem);line-height:1.08}
+.journal-article h2{margin:34px 0 12px}
+.journal-article p{font-size:1.06rem;line-height:1.9;color:#4f4439}
+.journal-article .article-byline{color:#92703e;font-size:.88rem}
+.journal-article .article-cta{margin-top:42px;padding:28px;background:#f0e6d4;border:1px solid #dfc69f}
+.journal-section{background:#f0e6d4}
+@media(max-width:900px){.journal-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:620px){.journal-grid{grid-template-columns:1fr;gap:20px}.journal-intro{padding:48px 0}.journal-card-body{padding:18px}.journal-article p{font-size:1rem}}
