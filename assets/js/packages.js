@@ -672,7 +672,7 @@ window.TH_PACKAGES = [
   },
   {
     "id": "ellora",
-    "slug": "ellora-heritage",
+    "slug": "caves-temples-ellora",
     "title": "Caves & Temples - Ellora",
     "route": "Chhatrapati Sambhaji Nagar → Ellora → Daulatabad → Chhatrapati Sambhaji Nagar",
     "durationDays": 4,
