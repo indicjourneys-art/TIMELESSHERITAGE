@@ -23,3 +23,49 @@
 .image-frame img{transition:transform .4s ease}
 .journey-card:hover .image-frame img,.related-card:hover .image-frame img{transform:scale(1.025)}
 @media(max-width:720px){.walk-promo-grid{grid-template-columns:1fr;gap:26px}.pricing-options{grid-template-columns:1fr}}
+/* RELATED JOURNEYS – UPDATED COLOUR THEME */
+
+.related-card {
+  background: #F3EBDD !important;
+  border: 1px solid #D6B77A !important;
+  color: #2B1B12 !important;
+}
+
+/* Journey category */
+.related-card .eyebrow,
+.related-card .category {
+  color: #A96B16 !important;
+}
+
+/* Journey title */
+.related-card h3,
+.related-card h3 a {
+  color: #2B1B12 !important;
+}
+
+/* Description and duration */
+.related-card p,
+.related-meta {
+  color: #78685B !important;
+}
+
+/* Price divider */
+.related-price {
+  border-color: #D6B77A !important;
+}
+
+/* Price labels */
+.related-price,
+.related-price small {
+  color: #78685B !important;
+}
+
+/* Actual price */
+.related-price strong {
+  color: #24170F !important;
+}
+
+/* Explore link */
+.related-card a {
+  color: #A96B16 !important;
+}
