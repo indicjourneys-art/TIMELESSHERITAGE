@@ -13,12 +13,13 @@
   }
 }
 
-/* Keep the featured carousel at 5:4 on mobile, matching desktop. */
+/* Slightly taller featured carousel on mobile */
 @media (max-width: 700px) {
   .thh-carousel {
-    aspect-ratio: 5 / 4 !important;
+    aspect-ratio: 1.1 / 1 !important;
     height: auto !important;
   }
+}
 
   /* Images supplied at 5:4 fill the frame without being cut off. */
   .thh-slide img {
