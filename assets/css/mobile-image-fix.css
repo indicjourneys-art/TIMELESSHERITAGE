@@ -148,3 +148,34 @@
     line-height: 1.5;
   }
 }
+/* Mobile slider: smaller text and softer gradient */
+@media (max-width: 700px) {
+  .thh-slide h2 {
+    font-size: 21px !important;
+    line-height: 1.12 !important;
+  }
+
+  .thh-slide p {
+    font-size: 12px !important;
+    line-height: 1.4 !important;
+  }
+
+  .thh-slide .eyebrow,
+  .thh-slide .slide-eyebrow {
+    font-size: 9px !important;
+  }
+
+  .thh-slide .btn {
+    font-size: 10px !important;
+    padding: 9px 13px !important;
+  }
+
+  .thh-slide::after {
+    background: linear-gradient(
+      to top,
+      rgba(20, 12, 6, 0.78) 0%,
+      rgba(20, 12, 6, 0.35) 30%,
+      transparent 65%
+    ) !important;
+  }
+}
