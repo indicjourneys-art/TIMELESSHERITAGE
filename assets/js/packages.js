@@ -232,7 +232,7 @@ window.TH_PACKAGES = [
     "route": "Haridwar → Ukhimath → Chopta → Tungnath → Chandrashila → Deoriatal → Rishikesh → Haridwar",
     "durationDays": 5,
     "durationNights": 4,
-    "price": 9750,
+    "price": 14999,
     "category": "Himalayan Journeys",
     "description": "A Himalayan journey combining sacred temples, high-altitude trekking, mountain viewpoints and the reflective waters of Deoriatal.",
     "highlights": [
@@ -555,7 +555,7 @@ window.TH_PACKAGES = [
     "route": "Varanasi → Ayodhya → Prayagraj → Varanasi",
     "durationDays": 7,
     "durationNights": 6,
-    "price": 34500,
+    "price": 24999,
     "category": "Multi-Destination Tours",
     "description": "A multi-city pilgrimage through the sacred ghats of Varanasi, temples of Ayodhya and the river confluence at Prayagraj.",
     "highlights": [
@@ -691,7 +691,7 @@ window.TH_PACKAGES = [
     "route": "Chhatrapati Sambhaji Nagar → Ellora → Daulatabad → Chhatrapati Sambhaji Nagar",
     "durationDays": 4,
     "durationNights": 3,
-    "price": 0,
+    "price": 12000,
     "category": "Heritage & Architecture",
     "description": "Explore the city’s historic landmarks, the cave architecture of Ellora, Grishneshwar Jyotirlinga and the fort landscape around Daulatabad.",
     "highlights": [
@@ -770,10 +770,10 @@ window.TH_PACKAGES = [
     "id": "pancha-bhoota",
     "slug": "pancha-bhoota-temple-heritage",
     "title": "Pancha Bhoota Temple Circuit Heritage Tour",
-    "route": "Chennai → Srikalahasti → Kanchipuram → Tiruvannamalai → Trichy → Tanjore → Chidambaram → Chennai",
+    "route": "Chennai → Srikalahasti → Kanchipuram → Tiruvannamalai → Trichy → Thanjavur → Chidambaram → Chennai",
     "durationDays": 6,
     "durationNights": 5,
-    "price": 0,
+    "price": 24999,
     "category": "Spiritual & Temple Journeys",
     "description": "Discover the sacred Pancha Bhoota temples and the rich spiritual, architectural and cultural heritage of Tamil Nadu on a six-day journey.",
 
@@ -832,8 +832,8 @@ window.TH_PACKAGES = [
         "label": "TEMPLE ARCHITECTURE"
       },
       {
-        "title": "Trichy – Tanjore",
-        "description": "Visit Brihadeeswarar Temple, Thanjavur Palace, Saraswathi Mahal Library and Art Gallery. Explore traditional handicrafts and Tanjore paintings.",
+        "title": "Trichy – Thanjavur",
+        "description": "Visit Brihadeeswarar Temple, Thanjavur Palace, Saraswathi Mahal Library and Art Gallery. Explore traditional handicrafts and Thanjavur paintings.",
         "places": [
           "Brihadeeswarar Temple",
           "Thanjavur Palace",
@@ -841,11 +841,11 @@ window.TH_PACKAGES = [
           "Art Gallery",
           "Traditional handicrafts"
         ],
-        "overnight": "Tanjore",
+        "overnight": "Thanjavur",
         "label": "ARCHITECTURE • CRAFT"
       },
       {
-        "title": "Tanjore – Chidambaram",
+        "title": "Thanjavur – Chidambaram",
         "description": "Visit Gangai Konda Cholapuram en route, then Nataraja Temple, temple darshan and Chidambara Rahasyam. Optional Pichavaram boating, subject to time.",
         "places": [
           "Gangai Konda Cholapuram",
@@ -899,7 +899,7 @@ window.TH_PACKAGES = [
     "route": "Gwalior → Orchha → Khajuraho → Shivpuri / Jhansi (as specified)",
     "durationDays": 7,
     "durationNights": 6,
-    "price": 0,
+    "price": 29999,
     "category": "Heritage & Architecture",
     "description": "A separate seven-day route focusing on fort architecture, Hindu temple complexes and Jain cave and temple heritage.",
     "highlights": [
@@ -1018,7 +1018,7 @@ window.TH_PACKAGES = [
     "title": "Jaipur with Pushkar",
     "durationDays": 5,
     "durationNights": 4,
-    "price": 17999,
+    "price": 340000,
     "category": "Heritage & Architecture",
     "route": "Jaipur → Pushkar → Jaipur",
     "start": "Jaipur",
@@ -1821,11 +1821,11 @@ window.TH_PACKAGES = [
 
       {
         "title": "Kumbakonam to Thanjavur – Heritage & Art",
-        "description": "After breakfast, check out from Kumbakonam and drive to Thanjavur. Visit the UNESCO World Heritage Brihadeeswarar Temple, also known as the Big Temple, an approximately 1,000-year-old architectural landmark. Spend time shopping for traditional Tanjore paintings and handicrafts in the local market. The evening is free to explore or relax. Overnight stay in Thanjavur or transfer back/stay towards Trichy, as per preference.",
+        "description": "After breakfast, check out from Kumbakonam and drive to Thanjavur. Visit the UNESCO World Heritage Brihadeeswarar Temple, also known as the Big Temple, an approximately 1,000-year-old architectural landmark. Spend time shopping for traditional Thanjavur paintings and handicrafts in the local market. The evening is free to explore or relax. Overnight stay in Thanjavur or transfer back/stay towards Trichy, as per preference.",
         "label": "CHOLA HERITAGE & ART",
         "places": [
           "Brihadeeswarar Temple (The Big Temple)",
-          "Local market – Tanjore paintings & handicrafts"
+          "Local market – Thanjavur paintings & handicrafts"
         ],
         "overnight": "Thanjavur or Trichy (as per preference)"
       },
