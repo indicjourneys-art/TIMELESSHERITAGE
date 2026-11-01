@@ -179,3 +179,27 @@
     ) !important;
   }
 }
+/* Desktop and laptop: align slider with the other homepage sections */
+@media (min-width: 701px) {
+  .thh-featured-inner {
+    width: calc(100% - 48px) !important;
+    max-width: 1320px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+
+  .thh-carousel {
+    width: 100% !important;
+  }
+
+  /* Diagonal fade rising from the bottom-left */
+  .thh-slide::after {
+    background: linear-gradient(
+      35deg,
+      rgba(20, 12, 6, 0.88) 0%,
+      rgba(20, 12, 6, 0.62) 28%,
+      rgba(20, 12, 6, 0.22) 52%,
+      transparent 75%
+    ) !important;
+  }
+}
