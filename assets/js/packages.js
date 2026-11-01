@@ -1018,7 +1018,7 @@ window.TH_PACKAGES = [
     "title": "Jaipur with Pushkar",
     "durationDays": 5,
     "durationNights": 4,
-    "price": 340000,
+    "price": 34000,
     "category": "Heritage & Architecture",
     "route": "Jaipur → Pushkar → Jaipur",
     "start": "Jaipur",
