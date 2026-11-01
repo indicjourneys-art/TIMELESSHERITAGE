@@ -13,10 +13,9 @@
   }
 }
 
-/* Slightly taller featured carousel on mobile */
 @media (max-width: 700px) {
   .thh-carousel {
-    aspect-ratio: 1.1 / 1 !important;
+    aspect-ratio: 1 / 1 !important;
     height: auto !important;
   }
 }
