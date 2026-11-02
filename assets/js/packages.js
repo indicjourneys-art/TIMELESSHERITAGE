@@ -103,9 +103,9 @@ window.TH_PACKAGES = [
       "gwalior-jain",
       "jaipur-pushkar"
     ],
-    "departureNote": "The supplied PDF lists 05 December 2026, ex-Ahmedabad. Confirm current availability before booking.",
+    "departureNote": "The supplied PDF lists 05 December 2026, ex-Ahmedabad.",
     "image": "gujarat-heritage-hero.jpg",
-    "bookingNote": "Only 12 seats · 05 December 2026 · Confirm current availability",
+    "bookingNote": "Only 12 seats · 05 December 2026",
     "whatsappMessage": "Hi Timeless Heritage! I'm interested in the Gujarat Heritage Journey (4 nights / 5 days). Please share the detailed itinerary, upcoming departure dates, current availability, final price, inclusions, exclusions and booking process."
   },
   {
