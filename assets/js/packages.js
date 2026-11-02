@@ -1737,7 +1737,7 @@ window.TH_PACKAGES = [
     "notes": [],
 
     "image": "madhya-pradesh-cultural-circuit-hero.jpg",
-    "bookingNote": "Departure: 16–20 January 2027",
+    "bookingNote": "Departure: 16–20 January 2027 · Only 12 seats",
     "priceNote": "",
     "departure": "",
     "start": "Ujjain",
