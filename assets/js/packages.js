@@ -9,7 +9,7 @@ window.TH_PACKAGES = [
     "durationNights": 4,
     "price": 16999,
     "category": "Heritage & Architecture",
-    "description": "A five-day exploration of Gujarat’s architectural legacy, Harappan archaeology and sacred spaces with Subject Expert Neha Kulkarni (Archaeologist & Researcher).",
+    "description": "A five-day exploration of Gujarat’s architectural legacy, Harappan archaeology and sacred spaces with **Subject Expert Neha Kulkarni (Archaeologist & Researcher)**.",
     "highlights": [
       "Sabarmati Ashram",
       "Lothal Archaeological Site and museum",
