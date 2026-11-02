@@ -205,7 +205,7 @@ window.TH_PACKAGES = [
       "All toll, parking and driver charges"
     ],
 "exclusions": [
-      "Airfare, train fare and bus fare unless expressly included",
+      "Train / Bus / Air Fare",
       "Meals other than those specified",
       "Monument, temple and museum entry fees",
       "Personal expenses, shopping, tips and beverages",
@@ -303,14 +303,13 @@ window.TH_PACKAGES = [
     "inclusions": [
       "Accommodation",
       "04 breakfasts",
-      "04 evening teas",
       "04 dinners",
       "Local transportation",
       "Sightseeing as per itinerary",
       "Services of a trip leader"
     ],
      "exclusions": [
-      "Airfare, train fare and bus fare unless expressly included",
+      "Train / Bus / Air Fare",
       "Meals other than those specified",
       "Monument, temple and museum entry fees",
       "Personal expenses, shopping, tips and beverages",
